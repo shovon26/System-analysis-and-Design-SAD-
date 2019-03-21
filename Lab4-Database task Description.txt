@@ -1,0 +1,27 @@
+Date:21-3-2019
+
+Experiment Name:E-R Modeling and Database Design for your project.
+
+Prerequisite:System Description of your Project.
+
+Task1: E-R MODELING
+  1.Entity preparation
+  2.Entity Relationship
+  3.Entuty Attributes
+  4.Complete E-R Model
+
+
+Task2:  DATABASE SCEMA DESIGN FROM THE E-R MODEL
+     1.Convert each Entity(strong/week) to a relation/table
+     2.Convert the attributes of the Converted entity to corresponding attributes of the relation/table.
+    
+     3.Identify Primary key and Define it for the table.
+     4.Convert the relationship between entities to a relation/table.
+     5.Define foreign key.
+     6.Summarise attribute description with attribute name/datatype/name/size.
+
+7.Give some Example records.
+8.Use DDL/DML to prove the define database 
+
+create table,delete,insert,select 
+     
